@@ -61,6 +61,7 @@
      <Compile Include="Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\Scripts\GlobalFunctions.cs" />
      <Compile Include="Assets\Scripts\HelloUnity.cs" />
+     <Compile Include="Assets\Scripts\JsonHandler.cs" />
      <Compile Include="Assets\Scripts\UIScript\UIBtnHandler.cs" />
      <None Include="Assets\Knight Files\Read Me.txt" />
  <Reference Include="Unity.TextMeshPro.Editor">
@@ -278,6 +279,9 @@
  </Reference>
  <Reference Include="UnityEngine.SpatialTracking">
  <HintPath>D:/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
+ </Reference>
+ <Reference Include="LitJson">
+ <HintPath>D:/Unity/Projects/Demo-Project/Assets/Scripts/LitJson.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Editor">
  <HintPath>D:/Unity/Projects/Demo-Project/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
